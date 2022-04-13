@@ -1,0 +1,3 @@
+THIS IS THE CORRECT FILE
+
+CHANGE PACKAGE.JSON TO  "test": "mocha --reporter spec"
